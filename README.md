@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building pra
 - 🔧 Currently working on various projects including web-based tools
 - 🌱 Always learning and improving my craft
 - 🎯 Passionate about clean code and user-friendly applications
-- 📍 Based in [Your Location]
+- 📍 Based in Madrid
 
 ---
 
